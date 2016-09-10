@@ -1,0 +1,30 @@
+First Deduction
+
+137C 		H1 If the one is, it is not many
+137C–D 		The one is not a whole of parts
+137D 		The one having no parts is without limit
+137D–138A 	The one having no limits is without shape
+138A–B		The one is nowhere being neither in itself or another
+138B–139B	The one is neither in motion nor at rest
+139B–E		The one is not the same nor different form itself or another
+140B–D		The one is not equal or unequal to itself or another
+140E–141D 	The one cannot be or become older or younger than, or the same age as, itself or 			another or be in time
+141D–142A	Since it is not in time, the one in no sense is, and cannot be named or known
+
+Second Deduction
+
+142B–C		H2 If the one is, it is one being with unity and being
+142C–D		The one being is a whole of parts
+142D–145A	The one being has limits and is indefinitely numerous
+145A–B		The one being can have shape
+145B–E		The one being can be in itself and another
+145E–146A	The one being can be in motion and at rest
+146A–147B	The one being is the same as, and different from, itself and the others
+147C–148D	The one being is like and unlike itself and the others
+148D–149D	The one being is, and is not, in contact with itself and the others
+149D–151B	The one being is equal and unequal both to itself and to others
+151B–E		The one being is equal and unequal to both itself and the others
+155C–E		The one being is, can be named and known.
+
+155E–156B	H2A The one being comes into being and ceases to exist, is combined and separated, 			becomes like and unlike, increases and diminishes
+156C–157B	The transition in becoming and change is instantaneous
